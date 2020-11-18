@@ -1,0 +1,15 @@
+# Toc-experiments
+LIST OF EXPERIMENTS
+
+Design a Program for creating a machine that accepts three consecutive one.
+Design a Program for creating a machine that accepts the string always ending with 101.
+Design a Program for Mode 3 Machine
+Design a program for accepting decimal number divisible by 2.
+Design a program for creating a machine which accepts string having equal no. of 1’s and 0’s.
+Design a program for creating a machine which count number of 1’s and 0’s in a given string.
+Design a Program to find 2’s complement of a given binary number.
+Design a Program which will increment the given binary number by 1.
+Design a Program to convert NDFA to DFA.
+Design a Program to create PDA machine that accept the well-formed parenthesis.
+Design a PDA to accept WCWR where w is any string and WR is reverse of that string and C is a Special symbol.
+Design a Turing machine that’s accepts the following language a n b n c n where n>0
