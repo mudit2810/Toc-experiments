@@ -16,3 +16,11 @@ bool isValid(string s) {
         return true;
     return false;
 }
+
+int main(){
+    string name;
+    cin>>name;
+    if(isValid(name))
+        cout<<" String is Accepted";
+    else
+        cout<<" String is not Accepted";}
